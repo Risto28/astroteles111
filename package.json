@@ -1,0 +1,29 @@
+{
+  "name": "astroteles111",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "astro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Risto28/astroteles111.git"
+  },
+  "keywords": [
+    "astrokun"
+  ],
+  "author": "mhr arsto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Risto28/astroteles111/issues"
+  },
+  "homepage": "https://github.com/Risto28/astroteles111#readme",
+  "dependencies": {
+    "@types/node": "^20.11.23",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "postcss": "^8.4.35"
+  }
+}
